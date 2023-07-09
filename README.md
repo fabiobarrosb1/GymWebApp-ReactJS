@@ -29,14 +29,14 @@ Please note that this project is a mock-up and intended for portfolio purposes t
 ![Join](gym-desktop-screenshots/join.png)
 
 
-## Mobile Version
+>## Mobile Version
 
-### Home
-![Home](gym-mobile-screenshots/home.png)
-![Home](gym-mobile-screenshots/home2.png)
+>### Home
+>![Home](gym-mobile-screenshots/home.png)
+>![Home](gym-mobile-screenshots/home2.png)
 
-### Programs
-![Programs](gym-mobile-screenshots/programs.png)
+>### Programs
+>![Programs](gym-mobile-screenshots/programs.png)
 ![Programs](gym-mobile-screenshots/programs2.png)
 
 ### Why Us
