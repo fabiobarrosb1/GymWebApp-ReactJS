@@ -1,3 +1,59 @@
+# GymWebApp - Mock-Up Gym Web Application 🏋🏼 - [Webstie](https://gymwebapp-reactjs.netlify.app)
+
+GymWebApp is a mock-up gym web application created using ReactJS. It showcases a visually appealing design with a range of features that simulate a real gym website. The app includes a captivating hero section, comprehensive program listings, a "Why Us" section highlighting the unique aspects of the gym, plans and pricing details, and a testimonials section to showcase client feedback.
+
+With its sleek styling and intuitive user interface, GymWebApp offers a glimpse into a modern and engaging gym website. It serves as a demonstration of my frontend development skills and showcases my ability to create visually appealing and interactive web applications using ReactJS.
+
+Please note that this project is a mock-up and intended for portfolio purposes to exhibit my design and development skills.
+
+# Screenshots
+
+## Desktop Version
+
+### Home
+![Home](gym-desktop-screenshots/home.png)
+
+### Programs
+![Programs](gym-desktop-screenshots/programs.png)
+
+### Why Us
+![Why Us](gym-desktop-screenshots/whyUs.png)
+
+### Plans
+![Plans](gym-desktop-screenshots/plans.png)
+
+### Testimonials
+![Testimonials](gym-desktop-screenshots/testimonials.png)
+
+### Join
+![Join](gym-desktop-screenshots/join.png)
+
+
+## Mobile Version
+
+### Home
+![Home](gym-mobile-screenshots/home.png)
+![Home](gym-mobile-screenshots/home2.png)
+
+### Programs
+![Programs](gym-mobile-screenshots/programs.png)
+![Programs](gym-mobile-screenshots/programs2.png)
+
+### Why Us
+![Why Us](gym-mobile-screenshots/whyUs.png)
+
+### Plans
+![Plans](gym-mobile-screenshots/plans.png)
+![Plans](gym-mobile-screenshots/plans2.png)
+![Plans](gym-mobile-screenshots/plans3.png)
+![Plans](gym-mobile-screenshots/plans4.png)
+
+### Testimonials
+![Testimonials](gym-mobile-screenshots/testimonials.png)
+
+### Join
+![Join](gym-mobile-screenshots/join.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
