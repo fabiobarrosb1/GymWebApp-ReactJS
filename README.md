@@ -29,31 +29,6 @@ Please note that this project is a mock-up and intended for portfolio purposes t
 ![Join](gym-desktop-screenshots/join.png)
 
 
->## Mobile Version
-
->### Home
->![Home](gym-mobile-screenshots/home.png)
->![Home](gym-mobile-screenshots/home2.png)
-
->### Programs
->![Programs](gym-mobile-screenshots/programs.png)
-![Programs](gym-mobile-screenshots/programs2.png)
-
-### Why Us
-![Why Us](gym-mobile-screenshots/whyUs.png)
-
-### Plans
-![Plans](gym-mobile-screenshots/plans.png)
-![Plans](gym-mobile-screenshots/plans2.png)
-![Plans](gym-mobile-screenshots/plans3.png)
-![Plans](gym-mobile-screenshots/plans4.png)
-
-### Testimonials
-![Testimonials](gym-mobile-screenshots/testimonials.png)
-
-### Join
-![Join](gym-mobile-screenshots/join.png)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -76,14 +51,6 @@ Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
@@ -124,3 +91,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Conclusion
+
+I'm proud to say that all the technologies used in this project work seamlessly together. They contribute to the smooth and reliable functionality of our gym web app.
+
+Feel free to fork this project, experiment, and make it your own. Your creativity and expertise can take this gym web app to new heights. I encourage you to share your modifications with the community and help us create an even better gym experience.
+
+Thank you for your interest in the project, and I look forward to seeing your contributions. Happy coding and happy gym web app editing!
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
